@@ -12,4 +12,4 @@ var example1 = new Vue({
   data: {
     counter: 0
   }
-})
+}).$mount('#app')
