@@ -41,9 +41,6 @@ export default {
     msg: String
   }
 }
-</script>
-
-
 
 var example1 = new Vue({
   el: '#example-1',
@@ -51,6 +48,11 @@ var example1 = new Vue({
     counter: 0
   }
 })
+</script>
+
+
+
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
